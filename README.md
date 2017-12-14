@@ -43,7 +43,6 @@ The discriminator model tries to tell apart between real images and artificial i
 python dcgan.py --mode generate --batch_size 128
 
 
----
 
 
 ## Result
